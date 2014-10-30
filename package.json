@@ -1,0 +1,15 @@
+{
+  "name": "FictionTree",
+  "version": "0.0.0",
+  "description": "OpenSource FictionRepository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Nandula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1",
+    "jade": "^1.7.0"
+  }
+}
